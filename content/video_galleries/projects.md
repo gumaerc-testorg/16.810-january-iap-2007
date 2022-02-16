@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: da85c5d7-7134-040b-6a2e-5ee2360ddff0
 videos:

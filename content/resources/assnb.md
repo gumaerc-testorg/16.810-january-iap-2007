@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/0912791e193898b3221983a8a83d1329_assnb.pdf
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/0912791e193898b3221983a8a83d1329_assnb.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assnb.pdf
 uid: 0912791e-1938-98b3-2219-83a8a83d1329

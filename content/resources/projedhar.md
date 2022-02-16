@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Sample student project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/5be0be64b1f853c0d98c77b858891109_projedhar.pdf
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/5be0be64b1f853c0d98c77b858891109_projedhar.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: projedhar.pdf
 uid: 5be0be64-b1f8-53c0-d98c-77b858891109
