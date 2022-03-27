@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b0ffe134-ecbe-7daf-fb6d-5279bf90d1c1
 resourcetype: Document
 title: assneexamp.pdf
 uid: 9da4f676-bb49-0c2e-8b0b-cbe6d6e3e9a2

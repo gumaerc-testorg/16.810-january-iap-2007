@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: da85c5d7-7134-040b-6a2e-5ee2360ddff0
 resourcetype: Document
 title: projadhar.pdf
 uid: 5c4eac54-9f66-809b-9c20-b0ca7c897876

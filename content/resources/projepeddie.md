@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: da85c5d7-7134-040b-6a2e-5ee2360ddff0
 resourcetype: Document
 title: projepeddie.pdf
 uid: f94e2934-b07f-c779-2d21-aef600aab5e4

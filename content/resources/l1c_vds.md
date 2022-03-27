@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e05767cd-3635-a8f1-d75a-f37a3f19e840
 resourcetype: Document
 title: l1c_vds.pdf
 uid: e3d201eb-55ac-fd21-1fa4-85167f598e56

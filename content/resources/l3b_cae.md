@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e05767cd-3635-a8f1-d75a-f37a3f19e840
 resourcetype: Document
 title: l3b_cae.pdf
 uid: 92d51b49-9cb5-5785-5087-6dfbfb6ba5b1

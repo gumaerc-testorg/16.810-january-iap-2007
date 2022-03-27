@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b0ffe134-ecbe-7daf-fb6d-5279bf90d1c1
 resourcetype: Document
 title: assndtemp.pdf
 uid: b23e5320-9466-b70c-a068-b1314b74f98a

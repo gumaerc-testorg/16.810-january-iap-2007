@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: da85c5d7-7134-040b-6a2e-5ee2360ddff0
 resourcetype: Document
 title: projdmclinko.pdf
 uid: 7da646d1-ec6f-b99c-ed89-fef48ad62b37

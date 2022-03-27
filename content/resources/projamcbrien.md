@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: da85c5d7-7134-040b-6a2e-5ee2360ddff0
 resourcetype: Document
 title: projamcbrien.pdf
 uid: ada7b48c-a3c0-666b-2789-1235ed462837

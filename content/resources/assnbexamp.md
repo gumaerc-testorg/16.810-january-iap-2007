@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b0ffe134-ecbe-7daf-fb6d-5279bf90d1c1
 resourcetype: Document
 title: assnbexamp.pdf
 uid: 18dc4473-3885-9a09-bf44-88682cd12282

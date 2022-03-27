@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'VDS: Team V2: Powertrain - Electric Hub Motor'
 uid: 00e2bf88-db16-e786-a1e6-01ff35ca74e1
 video_files:

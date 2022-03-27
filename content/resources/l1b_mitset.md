@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e05767cd-3635-a8f1-d75a-f37a3f19e840
 resourcetype: Document
 title: l1b_mitset.pdf
 uid: 72ebce7a-e955-160b-65f9-15e0ae558b46

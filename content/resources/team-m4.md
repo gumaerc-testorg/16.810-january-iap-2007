@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'MITSET: Team M4: Mechanical Climber (Weight)'
 uid: d60a66e9-aeef-d3fa-3b0f-9a2a1192c88e
 video_files:

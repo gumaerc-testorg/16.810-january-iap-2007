@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'MITSET: Team M1: m-wave Power Transmission'
 uid: 28eb974d-a6ee-a957-3d17-06439ddd7ce7
 video_files:
