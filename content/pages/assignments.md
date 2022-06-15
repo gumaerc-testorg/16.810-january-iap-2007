@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the assignment overview and a table which includes
+  sessions,topics, activities and assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: b0ffe134-ecbe-7daf-fb6d-5279bf90d1c1
 
 The series of the assignments from the class are represented here, and this file gives the overview of them:
 
-Assignment Overview ([PDF]({{< baseurl >}}/resources/overview))
+Assignment Overview ({{% resource_link a5d50f65-9595-64c9-3a9c-391f5b3747f6 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -70,9 +72,9 @@ Sketch initial designs by hand, rough sizing and concept.
 
 (A) Requirements and Interface Document (2 pages)
 
-Template ([PDF]({{< baseurl >}}/resources/assnatemplate))
+Template ({{% resource_link 1f85af19-5510-aa64-4b60-1082224b1e03 "PDF" %}})
 
-Example ([PDF]({{< baseurl >}}/resources/assnaexamp))
+Example ({{% resource_link 54954d1d-11ff-b6a5-5598-6aaddc0f2fb4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -101,9 +103,9 @@ Initial CAD Model of components. Start FEM modeling. Initial static loads analys
 
 (B) Hand Sketch of Conceptual Design (1 page)
 
-Assignment ([PDF]({{< baseurl >}}/resources/assnb))
+Assignment ({{% resource_link 0912791e-1938-98b3-2219-83a8a83d1329 "PDF" %}})
 
-Example (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/assnbexamp))
+Example ({{% resource_link 18dc4473-3885-9a09-bf44-88682cd12282 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -139,7 +141,7 @@ Learn about electric motors, hybrid drives, energy storage devices.
 
 (C) Solidworks® CAD Model, performance analysis (5 pages memo)
 
-Example ([PDF]({{< baseurl >}}/resources/assncexamp))
+Example ({{% resource_link bb85ee72-5776-b801-15c0-4f1c2fc08c09 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -179,7 +181,7 @@ Prepare final presentation.
 
 (D) Manufacturing and Test Report (2 pages report)
 
-Template ([PDF]({{< baseurl >}}/resources/assndtemp))
+Template ({{% resource_link b23e5320-9466-b70c-a068-b1314b74f98a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -200,7 +202,7 @@ Give final presentations; display final products.
 
 (E) CDR Presentation (max 8 slides)
 
-Example ([PDF]({{< baseurl >}}/resources/assneexamp))
+Example ({{% resource_link 9da4f676-bb49-0c2e-8b0b-cbe6d6e3e9a2 "PDF" %}})
 
 
 {{< tdclose >}}

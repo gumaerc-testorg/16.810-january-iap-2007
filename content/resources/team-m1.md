@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -30,12 +31,15 @@ The team project was to design the source of the microwave beam to power MIT Spa
 
 **Deliverables**
 
-A ([PDF]({{< baseurl >}}/resources/projadhar))
+A ({{% resource_link 5c4eac54-9f66-809b-9c20-b0ca7c897876 "PDF" %}})
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbdhar))
+B ({{% resource_link 1b2328a6-45c2-d374-2354-1986cc9618dc "PDF" %}})
 
-C ([PDF]({{< baseurl >}}/resources/projcdhar))
+C ({{% resource_link fa98313b-87ff-1ea4-8f72-0299b1c63fe3 "PDF" %}})
 
-D ([PDF]({{< baseurl >}}/resources/projddhar))
+D ({{% resource_link fffc7251-762a-0bf2-b173-b9f54795ff4f "PDF" %}})
 
-E ([PDF]({{< baseurl >}}/resources/projedhar))
+E ({{% resource_link 5be0be64-b1f8-53c0-d98c-77b858891109 "PDF" %}})
+
+
+

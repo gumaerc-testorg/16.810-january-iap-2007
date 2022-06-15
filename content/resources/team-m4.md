@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -30,12 +31,15 @@ The team project was to reduce the weight of the roller assembly so as to increa
 
 **Deliverables:**
 
-A ([PDF]({{< baseurl >}}/resources/projamclinko))
+A ({{% resource_link 3026977d-335f-94a3-79ad-b2c32a3163af "PDF" %}})
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbmclinko))
+B ({{% resource_link 781eb37e-1257-a78a-1650-ac5d40149382 "PDF" %}})
 
-C ([PDF]({{< baseurl >}}/resources/projcmclinko))
+C ({{% resource_link b17aaaa0-5994-58c5-8a19-2c2295304097 "PDF" %}})
 
-D ([PDF]({{< baseurl >}}/resources/projdmclinko))
+D ({{% resource_link 7da646d1-ec6f-b99c-ed89-fef48ad62b37 "PDF" %}})
 
-E ([PDF]({{< baseurl >}}/resources/projemclinko))
+E ({{% resource_link b58b693c-c661-4f88-1982-6f0e8c6b7169 "PDF" %}})
+
+
+

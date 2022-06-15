@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the Manual for Design Tools Used in this Course
+  and the Course Pedagogy Reference.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -9,7 +11,7 @@ uid: 79fb5c24-9576-53b6-9b03-15941d552f0b
 Manual for Design Tools Used in this Course
 -------------------------------------------
 
-SolidWorks®, CosmosWorks®, OMAX® and Water Jet Manual ([PDF - 1.5 MB]({{< baseurl >}}/resources/solidworks))
+SolidWorks®, CosmosWorks®, OMAX® and Water Jet Manual ({{% resource_link 46d2aef2-e3c3-0ef4-9106-6bb7293ed9c3 "PDF - 1.5 MB" %}})
 
 Course Pedagogy Reference
 -------------------------

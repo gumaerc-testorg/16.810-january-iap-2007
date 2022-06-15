@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -30,12 +31,15 @@ The team project was to design a rectenna system to convert microwaves into DC t
 
 **Deliverables**
 
-A ([PDF]({{< baseurl >}}/resources/projeanderson))
+A ({{% resource_link 71c694ca-b26a-dc11-04a7-22086feb5a9e "PDF" %}})
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbanderson))
+B ({{% resource_link 02eb9d33-c63b-47df-a9f4-e3809a5132df "PDF" %}})
 
-C ([PDF]({{< baseurl >}}/resources/projcanderson))
+C ({{% resource_link 616db12b-9d99-507d-a025-17421e42b6de "PDF" %}})
 
-D ([PDF]({{< baseurl >}}/resources/projdanderson))
+D ({{% resource_link 2957e4bb-5b9c-4685-c466-fbaefe5685a0 "PDF" %}})
 
-E ([PDF]({{< baseurl >}}/resources/projeanderson))
+E ({{% resource_link 71c694ca-b26a-dc11-04a7-22086feb5a9e "PDF" %}})
+
+
+

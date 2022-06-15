@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student project.
-file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/1b2328a645c2d37423541986cc9618dc_projbdhar.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/1b2328a645c2d37423541986cc9618dc_projbdhar.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: projbdhar.pdf
 uid: 1b2328a6-45c2-d374-2354-1986cc9618dc
 ---
+Sample student project.
+

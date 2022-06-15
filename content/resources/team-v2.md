@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -30,12 +31,15 @@ The team project was to design a new hub motor that meets similar high-efficienc
 
 **Deliverables:**
 
-A ([PDF]({{< baseurl >}}/resources/projapeddie))
+A ({{% resource_link dc07e2a1-b117-e463-f8b0-231e9ec7ab4a "PDF" %}})
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbpeddie))
+B ({{% resource_link f080e029-e40d-8a92-e46b-3ef1559c6925 "PDF" %}})
 
-C ([PDF]({{< baseurl >}}/resources/projcpeddie))
+C ({{% resource_link 1dd52cd6-6364-465a-17c9-25b045c2f9de "PDF" %}})
 
-D ([PDF]({{< baseurl >}}/resources/projdpeddie))
+D ({{% resource_link 42335e44-96f3-269c-3c0c-3d8ce56b8826 "PDF" %}})
 
-E ([PDF]({{< baseurl >}}/resources/projepeddie))
+E ({{% resource_link f94e2934-b07f-c779-2d21-aef600aab5e4 "PDF" %}})
+
+
+

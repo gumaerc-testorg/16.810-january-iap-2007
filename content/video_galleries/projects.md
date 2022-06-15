@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section contains a table of teams, members, products and deliverables.
 is_media_gallery: true
 learning_resource_types:
 - Projects
