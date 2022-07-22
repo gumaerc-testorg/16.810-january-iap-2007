@@ -5,6 +5,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assneexamp.pdf
 uid: 9da4f676-bb49-0c2e-8b0b-cbe6d6e3e9a2
 ---
 Example of work for the Deliverable E assignment.
-

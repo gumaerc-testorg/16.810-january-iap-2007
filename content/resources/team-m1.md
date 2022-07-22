@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -40,6 +41,4 @@ C ({{% resource_link fa98313b-87ff-1ea4-8f72-0299b1c63fe3 "PDF" %}})
 D ({{% resource_link fffc7251-762a-0bf2-b173-b9f54795ff4f "PDF" %}})
 
 E ({{% resource_link 5be0be64-b1f8-53c0-d98c-77b858891109 "PDF" %}})
-
-
 

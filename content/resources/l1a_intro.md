@@ -5,6 +5,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l1a_intro.pdf
 uid: 61f9d15b-45e3-2a86-4e3c-9a943d5ff88b
 ---
 This file contains information about Engineering Design and Rapid Prototyping.
-
