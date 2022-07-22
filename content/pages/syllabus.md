@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the description, prerequisites and the Rationale
+  for Offering this Subject.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b9aef5e0-fc23-cae9-4485-d82d454facd4
 ---

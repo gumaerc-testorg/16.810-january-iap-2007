@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes a table of session topics and activities.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e05767cd-3635-a8f1-d75a-f37a3f19e840
 ---
@@ -27,13 +31,13 @@ ACTIVITIES
 {{< tdopen >}}
 
 
-L1: Introduction to Design (de Weck) ([PDF]({{< baseurl >}}/resources/l1a_intro))
+L1: Introduction to Design (de Weck) ({{% resource_link 61f9d15b-45e3-2a86-4e3c-9a943d5ff88b "PDF" %}})
 
 ### Team Presentations
 
-MITSET ([PDF]({{< baseurl >}}/resources/l1b_mitset))
+MITSET ({{% resource_link 72ebce7a-e955-160b-65f9-15e0ae558b46 "PDF" %}})
 
-VDS ([PDF]({{< baseurl >}}/resources/l1c_vds))
+VDS ({{% resource_link e3d201eb-55ac-fd21-1fa4-85167f598e56 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -61,9 +65,9 @@ Sketch initial designs by hand, rough sizing and concept.
 {{< tdopen >}}
 
 
-L3: CAD Mechanical Modeling (de Weck) ([PDF]({{< baseurl >}}/resources/l3a_cad))
+L3: CAD Mechanical Modeling (de Weck) ({{% resource_link 45eed694-8bb2-d707-c11b-e6aa46f9a044 "PDF" %}})
 
-Computer Aided Engineering (CAE) (de Weck) ([PDF]({{< baseurl >}}/resources/l3b_cae))
+Computer Aided Engineering (CAE) (de Weck) ({{% resource_link 92d51b49-9cb5-5785-5087-6dfbfb6ba5b1 "PDF" %}})
 
 Solidworks® Tutorial
 
@@ -103,7 +107,7 @@ Learn about electric motors, hybrid drives, energy storage devices.
 6
 {{< tdclose >}}
 {{< tdopen >}}
-L6: Manufacturing and Testing (de Weck) ([PDF 1]({{< baseurl >}}/resources/l6a_optimize)) ([PDF 2]({{< baseurl >}}/resources/l6b_mancam))
+L6: Manufacturing and Testing (de Weck) ({{% resource_link b792f85b-027e-b804-875a-9c1fd9a8121a "PDF 1" %}}) ({{% resource_link 87f2de56-f4b7-13b5-b408-a2fa05de14ee "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction to manufacturing, water jet cutting, manufacturing, testing.

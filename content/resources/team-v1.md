@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'VDS: Team V1: Body Design (Door, Windshield)'
 uid: 390d3344-9e05-09df-1fcf-7336547025db
 video_files:
@@ -20,12 +32,13 @@ The team project was to design and implement a method for the driver to enter an
 
 **Deliverables:**
 
-A ([PDF]({{< baseurl >}}/resources/projamcbrien))
+A ({{% resource_link ada7b48c-a3c0-666b-2789-1235ed462837 "PDF" %}})
 
-B (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/projbmcbrien))
+B ({{% resource_link fe3f3565-4a83-0142-605c-d491654ea094 "PDF" %}})
 
-C ([PDF]({{< baseurl >}}/resources/projcmcbrien))
+C ({{% resource_link 6a0c466b-bb6d-4253-e48a-2ca19599d22c "PDF" %}})
 
-D ([PDF]({{< baseurl >}}/resources/projdmcbrien))
+D ({{% resource_link 992cb31b-3d38-06db-d9d6-06584598b452 "PDF" %}})
 
-E ([PDF]({{< baseurl >}}/resources/projemcbrien))
+E ({{% resource_link f9f269f0-62e1-6c27-e89a-d2eb2ad6aae2 "PDF" %}})
+
