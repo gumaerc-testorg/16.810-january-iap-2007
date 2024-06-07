@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment example.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/18dc447338859a09bf4488682cd12282_assnbexamp.pdf
+file_size: 715873
 file_type: application/pdf
 learning_resource_types:
 - Assignments
