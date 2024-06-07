@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment handout.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/54954d1d11ffb6a555986aaddc0f2fb4_assnaexamp.pdf
+file_size: 55345
 file_type: application/pdf
 learning_resource_types:
 - Assignments

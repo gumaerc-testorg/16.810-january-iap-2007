@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student project.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/616db12b9d99507da02517421e42b6de_projcanderson.pdf
+file_size: 209031
 file_type: application/pdf
 learning_resource_types:
 - Projects
