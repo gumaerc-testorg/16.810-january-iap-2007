@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample student project.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/5be0be64b1f853c0d98c77b858891109_projedhar.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/5be0be64b1f853c0d98c77b858891109_projedhar.pdf
 file_size: 615402
 file_type: application/pdf
 learning_resource_types:

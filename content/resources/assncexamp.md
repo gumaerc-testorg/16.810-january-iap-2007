@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of work for the homework assignment.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/bb85ee725776b80115c04f1c2fc08c09_assncexamp.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/bb85ee725776b80115c04f1c2fc08c09_assncexamp.pdf
 file_size: 235352
 file_type: application/pdf
 learning_resource_types:
