@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Overview of the course assignments.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/a5d50f65959564c93a9c391f5b3747f6_overview.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/a5d50f65959564c93a9c391f5b3747f6_overview.pdf
 file_size: 18893
 file_type: application/pdf
 learning_resource_types:
