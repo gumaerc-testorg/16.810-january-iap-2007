@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of work for the Deliverable E assignment.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/9da4f676bb490c2e8b0bcbe6d6e3e9a2_assneexamp.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/9da4f676bb490c2e8b0bcbe6d6e3e9a2_assneexamp.pdf
 file_size: 249801
 file_type: application/pdf
 learning_resource_types:
