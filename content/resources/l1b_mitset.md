@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This section contains information about the system overview of MITSET.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/72ebce7ae955160b65f915e0ae558b46_l1b_mitset.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/72ebce7ae955160b65f915e0ae558b46_l1b_mitset.pdf
 file_size: 464325
 file_type: application/pdf
 learning_resource_types:

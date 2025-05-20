@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about guest lecture.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/72ec157f2c46b2d4561b21b834cd2231_l5elecmotor.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/72ec157f2c46b2d4561b21b834cd2231_l5elecmotor.pdf
 file_size: 1082591
 file_type: application/pdf
 learning_resource_types:

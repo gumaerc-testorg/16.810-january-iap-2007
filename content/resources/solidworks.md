@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Manual for design tools used in this course.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/46d2aef2e3c30ef491066bb7293ed9c3_solidworks.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/46d2aef2e3c30ef491066bb7293ed9c3_solidworks.pdf
 file_size: 1545613
 file_type: application/pdf
 learning_resource_types: []
