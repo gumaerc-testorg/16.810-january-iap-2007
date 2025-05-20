@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information about Engineering Design and Rapid Prototyping
   - CAD.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/45eed6948bb2d707c11be6aa46f9a044_l3a_cad.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/45eed6948bb2d707c11be6aa46f9a044_l3a_cad.pdf
 file_size: 304918
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment template.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/1f85af195510aa644b601082224b1e03_assnatemplate.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/1f85af195510aa644b601082224b1e03_assnatemplate.pdf
 file_size: 14314
 file_type: application/pdf
 learning_resource_types:
